@@ -64,7 +64,7 @@ module NetSuite
         'CU' => '_cuba',
         'CW' => '_curacao',
         'CY' => '_cyprus',
-        'CZ' => '_czechRepublic',
+        'CZ' => '_czechia',
         'DK' => '_denmark',
         'DJ' => '_djibouti',
         'DM' => '_dominica',
