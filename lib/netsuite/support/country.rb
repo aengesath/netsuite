@@ -232,7 +232,7 @@ module NetSuite
         'TO' => '_tonga',
         'TT' => '_trinidadAndTobago',
         'TN' => '_tunisia',
-        'TR' => '_turkey',
+        'TR' => '_turkiye',
         'TM' => '_turkmenistan',
         'TC' => '_turksAndCaicosIslands',
         'TV' => '_tuvalu',
