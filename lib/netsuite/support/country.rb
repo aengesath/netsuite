@@ -243,7 +243,7 @@ module NetSuite
         'UK' => '_unitedKingdom',
         'US' => '_unitedStates',
         'UY' => '_uruguay',
-        'UM' => '_uSMinorOutlyingIslands',
+        'UM' => '_unitedStatesMinorOutlyingIslands',
         'UZ' => '_uzbekistan',
         'VU' => '_vanuatu',
         'VE' => '_venezuelaBolivarianRepublicOf',
